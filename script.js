@@ -1,9 +1,11 @@
 "use strict";
 
-import { Graph } from "graphology";
+// import { Graph } from "graphology";
+// import("./node_modules/graphology");
+// const Graph = require("graphology");
 
-// import Graph from "graphology";
-// var Graph = import("./node_modules/graphology");
+import Graph from "graphology";
+// var Graph = import("./node_modules/graphology/dist/graphology");
 
 const graph = new Graph();
 
