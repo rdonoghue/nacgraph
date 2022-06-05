@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "graphology": "^0.24.1"
+  },
+  "name": "nacgraph",
+  "description": "Trying to make a diagram for incar",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdonoghue/nacgraph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdonoghue/nacgraph/issues"
+  },
+  "homepage": "https://github.com/rdonoghue/nacgraph#readme"
+}
